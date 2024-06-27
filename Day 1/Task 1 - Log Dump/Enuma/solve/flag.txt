@@ -1,0 +1,2 @@
+LFI logs : SELEKDA{LFI_in_the_application_w00p_w00p}
+RCE logs: SELEKDA{We_got_RCE_because_discovered_h1dden_param_using_arjun_and_directory_brute_force}
