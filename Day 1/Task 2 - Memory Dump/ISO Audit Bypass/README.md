@@ -6,6 +6,8 @@ In order to prove Dicky's innocence, the company had a prerogative rights fully 
 
 Download file here -> https://drive.google.com/file/d/12Jx0W3uq827GpN7VRMsrRHufsn3_ZiX8/view?usp=sharing
 
+Zip password = zip_password_but_not_in_rockyou_lol
+
 Notes: The following objectives MAY be true or false based from your investigation. These questions are not yet to be proven and only come up from a hypotheses.
 
 Use your best forensic skills to dive into it.
