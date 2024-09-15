@@ -7,7 +7,7 @@ by prajnapras19
 ## Flag
 
 ```
-flag{LLL_goes_brrrrrrr_999}
+SELEKDA{LLL_goes_brrrrrrr_999}
 ```
 
 ## Description
@@ -20,7 +20,7 @@ easy-medium
 - https://ur4ndom.dev/static/files/latticetraining/practical_lattice_reductions.pdf
 
 ## Tags
-RSA, integer factorization
+LLL
 
 ## Deployment
 ```

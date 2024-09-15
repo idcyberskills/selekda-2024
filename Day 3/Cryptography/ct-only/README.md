@@ -7,7 +7,7 @@ by prajnapras19
 ## Flag
 
 ```
-flag{rec0v3r_n_and_e}
+SELEKDA{rec0v3r_n_and_e}
 ```
 
 ## Description
